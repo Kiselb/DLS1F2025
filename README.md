@@ -4,7 +4,7 @@
 
 # Тема проекта: Face Recognition (Разработка пайплайна для задачи Face Recognition)
 
-## Google Colab Notebook (здесь)[https://colab.research.google.com/drive/1XIolFawKwmQT2NGqTLncVMPoFGegm_II?usp=sharing]
+## Google Colab Notebook [здесь](https://colab.research.google.com/drive/1XIolFawKwmQT2NGqTLncVMPoFGegm_II?usp=sharing)
 
 ## Этапы проекта
 
