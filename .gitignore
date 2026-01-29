@@ -209,3 +209,8 @@ __marimo__/
 shape_predictor_68_face_landmarks.dat
 *.dat
 *.pth
+/celeba_cropped_10k
+/img_celeba
+*.csv
+*.txt
+/celeba_aligned
