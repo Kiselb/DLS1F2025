@@ -214,3 +214,4 @@ shape_predictor_68_face_landmarks.dat
 *.csv
 *.txt
 /celeba_aligned
+*.jpg
